@@ -12,3 +12,5 @@ tutorials
 ## Run test with pytest
 
 Yo run this repo, install the modules in requirements.txt
+
+## notebooks
