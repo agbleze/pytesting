@@ -14,3 +14,4 @@ tutorials
 Yo run this repo, install the modules in requirements.txt
 
 ## notebooks
+The notebook contains sample code that you can run and verify the results 
