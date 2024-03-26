@@ -16,4 +16,5 @@ Yo run this repo, install the modules in requirements.txt
 ## notebooks
 The notebook contains sample code that you can run and verify the results 
 
-# configuration 
+# installation/configuration 
+The environment to run the code can be created as a virtual one with the required modules
